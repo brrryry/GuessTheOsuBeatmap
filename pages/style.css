@@ -1,0 +1,15 @@
+.game {
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    align-items: center;
+}
+#answer {
+    position: fixed;
+    bottom: 10rem;
+    padding: 10px;
+    align-items: center;
+}
